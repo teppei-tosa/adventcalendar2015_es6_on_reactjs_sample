@@ -1,0 +1,63 @@
+{
+  "name": "adventcalendar2015_es6_on_reactjs_sample",
+  "version": "1.0.0",
+  "description": "ES6 on React.js Sample For freee engineers' AdventCalendar 2015",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teppei-tosa/adventcalendar2015_es6_on_reactjs_sample.git"
+  },
+  "keywords": [
+    "React.js",
+    "ES6",
+    "expect-jsx"
+  ],
+  "author": "tosa@freee.co.jp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teppei-tosa/adventcalendar2015_es6_on_reactjs_sample/issues"
+  },
+  "homepage": "https://github.com/teppei-tosa/adventcalendar2015_es6_on_reactjs_sample#readme",
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "babel-core": "^5.8.25",
+    "babel-eslint": "^4.1.5",
+    "babel-loader": "^5.3.2",
+    "babelify": "^6.4.0",
+    "body-parser": "^1.14.1",
+    "browser-sync": "^2.9.11",
+    "browserify": "^11.2.0",
+    "envify": "^3.4.0",
+    "eslint": "^1.7.3",
+    "eslint-loader": "^1.1.0",
+    "eslint-plugin-react": "^3.6.3",
+    "espower-babel": "^3.3.0",
+    "expect": "^1.12.2",
+    "expect-jsx": "^2.1.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.7",
+    "harmonize": "^1.4.4",
+    "jest-cli": "^0.7.0",
+    "jquery": "^2.1.4",
+    "jsdom": "^7.0.2",
+    "live-server": "^0.8.2",
+    "mocha": "^2.3.3",
+    "node-dev": "^2.7.1",
+    "react": "^0.14.0",
+    "react-addons": "^0.9.0",
+    "react-addons-test-utils": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-mixin": "^3.0.1",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "uglify-js": "^2.5.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0",
+    "webpack": "^1.12.2"
+  }
+}
